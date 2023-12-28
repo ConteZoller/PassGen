@@ -16,9 +16,9 @@ This Python script provides a simple and secure password generation tool with an
 
 ## Example Usage
 ```bash
-$ python secure_password_generator.py
+$ python PassGen.py
 
-Secure Password Generator
+
 1. Quick Configuration
 2. Generate Password
 3. Exit
@@ -29,7 +29,7 @@ Include special characters? (y/n): y
 Include numbers? (y/n): y
 Include uppercase letters? (y/n): n
 
-Secure Password Generator
+
 1. Quick Configuration
 2. Generate Password
 3. Exit
